@@ -9,11 +9,11 @@ import toast from 'react-hot-toast';
 const mockProducts: Product[] = [
   {
     id: '1',
-    name: 'Paracetamol 500mg',
-    drugFormula: 'Acetaminophen 500mg',
+    name: 'Ramadhan package',
+    drugFormula: 'RAMADhan',
     unitPrice: 2.5,
     boxPrice: 225,
-    imageUrl: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80',
+    imageUrl: 'https://mamamikes.co.ke/641-large_default/christmas-mega-pack.jpg',
     category: 'Pain Relief',
     stock: 150
   },

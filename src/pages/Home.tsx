@@ -8,7 +8,7 @@ export const Home = () => {
       {/* Hero Section */}
       <section className="relative h-[500px] rounded-2xl overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&q=80"
+          src="https://mamamikes.co.ke/641-large_default/christmas-mega-pack.jpg"
           alt="Medical Supplies"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -20,7 +20,7 @@ export const Home = () => {
               animate={{ opacity: 1, y: 0 }}
               className="text-4xl md:text-5xl font-bold mb-6"
             >
-              Your Trusted Medical Supply Partner Since 1992
+              Your Trusted Food And Bevarage Supply Since 1992
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
@@ -28,7 +28,7 @@ export const Home = () => {
               transition={{ delay: 0.2 }}
               className="text-lg mb-8"
             >
-              Providing quality healthcare products to medical professionals across Madhya Pradesh
+              Providing quality foodies products across kenya
             </motion.p>
             <motion.button
               initial={{ opacity: 0, y: 20 }}
@@ -78,9 +78,9 @@ export const Home = () => {
       {/* About Section */}
       <section className="bg-white rounded-2xl p-8 md:p-12">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-6">About Vivek Medical Agency</h2>
+          <h2 className="text-3xl font-bold mb-6">About SAMWEST DISTRIBUTOR LTD</h2>
           <p className="text-gray-600 mb-8">
-            Founded in 1992 by Mr. Praveen Gupta, Vivek Medical Agency has been at the forefront of medical supply distribution in Madhya Pradesh. Our commitment to quality, reliability, and customer service has made us a trusted partner for healthcare professionals across the region.
+          Founded in 1992 by Mr. Sam west , Samwest Wholesale has been a pioneer in bulk distribution, serving businesses across Kenya with unmatched reliability and efficiency. With decades of expertise, we have built a reputation for quality, trust, and excellence, ensuring that wholesalers, retailers, and enterprises get the best products at competitive prices. From foodstuffs to essential goods, our commitment to seamless logistics and customer satisfaction continues to drive our success in the ever-evolving marketplace. 🚀.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
             <div>

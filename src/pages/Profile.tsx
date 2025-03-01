@@ -8,7 +8,7 @@ export const Profile = () => {
   const [user, setUser] = useState({
     prefix: 'Dr.',
     name: 'Amrit Singh',
-    mobile: '9826454554',
+    mobile: '=254794232765',
     email: 'amritsingh@example.com',
     address: '123 Medical Lane, Garoth, MP',
     profileImage: ''

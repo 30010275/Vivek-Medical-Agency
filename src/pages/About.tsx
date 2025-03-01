@@ -28,7 +28,7 @@ export const About = () => {
               transition={{ delay: 0.2 }}
               className="text-lg"
             >
-              Serving the healthcare community since 1992
+              Serving the community since 1992
             </motion.p>
           </div>
         </div>
@@ -39,10 +39,10 @@ export const About = () => {
         <div className="bg-white rounded-lg shadow-sm p-8">
           <h2 className="text-3xl font-bold mb-6">Our Journey</h2>
           <p className="text-gray-600 mb-6">
-            Founded in 1992 by Mr. Praveen Gupta, Vivek Medical Agency began with a vision to provide quality medical supplies to healthcare professionals in Garoth and surrounding areas. What started as a small medical store has now grown into one of the most trusted medical supply agencies in Madhya Pradesh.
+            Founded in 1992 by Mr. Sam began with a vision to provide quality supplies to products professionals in Garoth and surrounding areas. What started as a small store has now grown into one of the most trusted  supply agencies kenya.
           </p>
           <p className="text-gray-600">
-            Over the past three decades, we have built strong relationships with leading pharmaceutical companies and healthcare providers, ensuring a steady supply of high-quality medical products to our customers.
+            Over the past three decades, we have built strong relationships with leading companies and product providers, ensuring a steady supply of high-quality medical products to our customers.
           </p>
         </div>
       </section>

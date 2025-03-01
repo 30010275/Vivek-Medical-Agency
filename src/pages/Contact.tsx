@@ -53,9 +53,9 @@ export const Contact = () => {
               <div>
                 <h3 className="font-semibold mb-1">Address</h3>
                 <p className="text-gray-600">
-                  Old Bus Stand, Shahid Chowk,<br />
-                  Garoth, Distt-Mandsaur,<br />
-                  Madhya Pradesh - 458880
+                  Naivasha rd,<br />
+                  Along Waithaka Road,<br />
+                  samwesy - 458880
                 </p>
               </div>
             </div>

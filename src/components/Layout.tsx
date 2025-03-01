@@ -16,7 +16,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
             >
               <Stethoscope className="h-8 w-8 text-primary-600" />
               <div>
-                <h1 className="text-xl font-bold text-gray-900">VIVEK MEDICAL AGENCY</h1>
+                <h1 className="text-xl font-bold text-gray-900">SAMWEST DISTRIBUTORS LTD</h1>
                 <p className="text-sm text-gray-500">Serving since 1992</p>
               </div>
             </motion.div>

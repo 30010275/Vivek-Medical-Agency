@@ -1,15 +1,15 @@
-# VIVEK MEDICAL AGENCY - E-commerce Platform
+# SAMWEST DISTRIBUTOR LTD - E-commerce Platform
 
-Welcome to the official GitHub repository for **VIVEK MEDICAL AGENCY**'s e-commerce platform. This project enables **Vivek Medical Agency** to manage their product inventory, customer orders, and admin analytics for their wholesale medical supply business.
+Welcome to the official GitHub repository for **SAMWEST DISTRIBUTOR LTD**'s e-commerce platform. This project enables **Samwest Distributor Ltd** to manage their product inventory, customer orders, and admin analytics for their wholesale medical supply business.
 
 ## Project Overview
 
 ### Business Details
-- **Name:** Vivek Medical Agency
+- **Name:** Samwest Distributor Ltd
 - **Address:** Old Bus Stand, Shahid Chowk, Garoth, Distt-Mandsaur, Madhya Pradesh - 458880
 - **Owner:** Praveen Gupta
 - **Contact:** +91 98264 54554
-- **Email:** v_meddical@yahoo.in
+- **Email:** samwest_distributor@yahoo.in
 - **Established:** 1992
 
 ### Tech Stack
@@ -25,8 +25,8 @@ Welcome to the official GitHub repository for **VIVEK MEDICAL AGENCY**'s e-comme
 
 1. **Authentication**
    - Single admin account with predefined credentials:
-     - **Username:** vivek
-     - **Password:** Vivek@123
+     - **Username:** samwest
+     - **Password:** Samwest@123
    - Protected routes with JWT-based authentication.
 
 2. **Dashboard**
@@ -82,8 +82,8 @@ Welcome to the official GitHub repository for **VIVEK MEDICAL AGENCY**'s e-comme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kartik2629/vivek-medical-agency.git
-   cd vivek-medical-agency
+   git clone https://github.com/kartik2629/samwest-distributor-ltd.git
+   cd samwest-distributor-ltd
    ```
 
 2. **Backend Setup**
@@ -96,8 +96,8 @@ Welcome to the official GitHub repository for **VIVEK MEDICAL AGENCY**'s e-comme
      ```plaintext
      MONGODB_URI=your-mongodb-connection-string
      JWT_SECRET=your-jwt-secret
-     ADMIN_USERNAME=vivek
-     ADMIN_PASSWORD=Vivek@123
+     ADMIN_USERNAME=samwest
+     ADMIN_PASSWORD=Samwest@123
      ```
    - Start the server:
      ```bash
